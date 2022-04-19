@@ -1,0 +1,6 @@
+c:\users\acer\documents\visual studio 2012\Projects\SelectionSort\SelectionSort\bin\Debug\SelectionSort.exe.config
+c:\users\acer\documents\visual studio 2012\Projects\SelectionSort\SelectionSort\bin\Debug\SelectionSort.exe
+c:\users\acer\documents\visual studio 2012\Projects\SelectionSort\SelectionSort\bin\Debug\SelectionSort.pdb
+c:\users\acer\documents\visual studio 2012\Projects\SelectionSort\SelectionSort\obj\Debug\SelectionSort.csprojResolveAssemblyReference.cache
+c:\users\acer\documents\visual studio 2012\Projects\SelectionSort\SelectionSort\obj\Debug\SelectionSort.exe
+c:\users\acer\documents\visual studio 2012\Projects\SelectionSort\SelectionSort\obj\Debug\SelectionSort.pdb

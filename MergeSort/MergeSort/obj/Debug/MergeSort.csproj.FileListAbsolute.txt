@@ -1,0 +1,6 @@
+c:\users\acer\documents\visual studio 2012\Projects\MergeSort\MergeSort\bin\Debug\MergeSort.exe.config
+c:\users\acer\documents\visual studio 2012\Projects\MergeSort\MergeSort\bin\Debug\MergeSort.exe
+c:\users\acer\documents\visual studio 2012\Projects\MergeSort\MergeSort\bin\Debug\MergeSort.pdb
+c:\users\acer\documents\visual studio 2012\Projects\MergeSort\MergeSort\obj\Debug\MergeSort.csprojResolveAssemblyReference.cache
+c:\users\acer\documents\visual studio 2012\Projects\MergeSort\MergeSort\obj\Debug\MergeSort.exe
+c:\users\acer\documents\visual studio 2012\Projects\MergeSort\MergeSort\obj\Debug\MergeSort.pdb

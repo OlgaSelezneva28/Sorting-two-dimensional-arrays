@@ -1,0 +1,6 @@
+c:\users\acer\documents\visual studio 2012\Projects\InsertionSort\InsertionSort\bin\Debug\InsertionSort.exe.config
+c:\users\acer\documents\visual studio 2012\Projects\InsertionSort\InsertionSort\obj\Debug\InsertionSort.csprojResolveAssemblyReference.cache
+c:\users\acer\documents\visual studio 2012\Projects\InsertionSort\InsertionSort\bin\Debug\InsertionSort.exe
+c:\users\acer\documents\visual studio 2012\Projects\InsertionSort\InsertionSort\bin\Debug\InsertionSort.pdb
+c:\users\acer\documents\visual studio 2012\Projects\InsertionSort\InsertionSort\obj\Debug\InsertionSort.exe
+c:\users\acer\documents\visual studio 2012\Projects\InsertionSort\InsertionSort\obj\Debug\InsertionSort.pdb
